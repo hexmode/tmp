@@ -8,4 +8,5 @@ Consult the [https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents Use
 * [https://lists.wikimedia.org/mailman/listinfo/mediawiki-announce MediaWiki release mailing list]
 * [https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation#Translation_resources Localise MediaWiki for your language]
 * [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Combating_spam Learn how to combat spam on your wiki]
+git status:  On branch origin-master Your branch is up to date with 'origin/master'. nothing to commit, working tree clean
 git status:  HEAD detached at copy/master nothing to commit, working tree clean
